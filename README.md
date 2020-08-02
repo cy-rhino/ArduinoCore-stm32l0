@@ -77,7 +77,7 @@ ArduinoCore-stm32l0 is targeted at ultra low power scenarios, sensor hubs, with 
  4. Clone this repo: ```git clone https://github.com/grumpyoldpizza/ArduinoCore-stm32l0.git TleraCorp/stm32l0```
  5. Restart the Arduino IDE
 
-## Recovering from a faulty sketch for Tlera Corp Boards
+## Recovering from a faulty sketch for Tlera Corp and Cyrola Inc Boards
 
  Sometimes a faulty sketch can render the normal USB Serial based integration into the Arduindo IDE not working. In this case plugin the STM32L0 board and toggle the RESET button while holding down the BOOT button and program a known to be working sketch to go back to a working USB Serial setup.
 
