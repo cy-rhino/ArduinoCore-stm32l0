@@ -30,8 +30,8 @@ ArduinoCore-stm32l0 is targeted at ultra low power scenarios, sensor hubs, with 
  1. [Download and install the Arduino IDE](https://www.arduino.cc/en/Main/Software) (at least version v1.6.8)
  2. Start the Arduino IDE
  3. Go into Preferences
- 4. Add ```https://grumpyoldpizza.github.io/ArduinoCore-stm32l0/package_stm32l0_boards_index.json``` as an "Additional Board Manager URL"
- 5. Open the Boards Manager from the Tools -> Board menu and install "Tlera Corp STM32L0 Boards"
+ 4. Add ```http://www.cyrola.co.jp/archive/package_cyrola_rhino_index.json``` as an "Additional Board Manager URL"
+ 5. Open the Boards Manager from the Tools -> Board menu and install "STM32L0 Boards"
  6. Select your STM32L0 board from the Tools -> Board menu
 
 #### OS Specific Setup
