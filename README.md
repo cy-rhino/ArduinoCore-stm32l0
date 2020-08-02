@@ -7,6 +7,9 @@ ArduinoCore-stm32l0 is targeted at ultra low power scenarios, sensor hubs, with 
 
 ## Supported boards
 
+### Cyrola Inc
+ * [Rhino-WAN-L082CZ](https://github.com/cy-rhino/WAN)
+
 ### Tlera Corp
  * [Grasshopper-L082CZ](https://www.tindie.com/products/TleraCorp/grasshopper-lora-development-board)
  * [Cricket-L082CZ](https://www.tindie.com/products/TleraCorp/cricket-lorawangnss-asset-tracker)
