@@ -74,7 +74,7 @@ ArduinoCore-stm32l0 is targeted at ultra low power scenarios, sensor hubs, with 
   * Linux: ```~/Arduino```
   * Windows: ```~/Documents/Arduino```
  3. Create a folder named ```hardware```, if it does not exist, and change directories to it
- 4. Clone this repo: ```git clone https://github.com/grumpyoldpizza/ArduinoCore-stm32l0.git TleraCorp/stm32l0```
+ 4. Clone this repo: ```git clone https://github.com/cy-rhino/ArduinoCore-stm32l0.git CyrolaInc/stm32l0```
  5. Restart the Arduino IDE
 
 ## Recovering from a faulty sketch for Tlera Corp and Cyrola Inc Boards
