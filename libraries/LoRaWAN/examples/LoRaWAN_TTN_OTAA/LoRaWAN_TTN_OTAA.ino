@@ -39,7 +39,7 @@ void setup( void )
     LoRaWAN.begin(AS923);
 #endif
 
-#if defined(REGION_AS923_920_923)
+#if defined(REGION_AS923_923_925)
     LoRaWAN.begin(AS923);
 #endif
 
