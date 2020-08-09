@@ -43,7 +43,7 @@ void setup( void )
     LoRaWAN.addChannel(9, 921800000, 7, 7);
 #endif
 
-#if defined(REGION_AS923_920_923)
+#if defined(REGION_AS923_923_925)
     LoRaWAN.begin(AS923);
     LoRaWAN.addChannel(2, 923600000, 0, 5);
     LoRaWAN.addChannel(3, 923800000, 0, 5);
